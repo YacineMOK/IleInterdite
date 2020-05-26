@@ -43,7 +43,9 @@ Pour autant au début, nous nous sommes répartie le boulot équitablement sans 
  
 ## Tâches en collaboration et travail d'équipe : 
 **Lynda et Yacine:** Implémentation du controller Mouse. 
+
 **Lynda et Kevin:** Rôle Navigateur et Messager. 
+
 **Yacine et Kevin:** Passage des Tours (interraction Controller/Vue). 
 
 Chacun a aussi clarifié la partie dont il s'occupait. 
