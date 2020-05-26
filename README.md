@@ -67,7 +67,8 @@ Au début, on a mal construit notre code. On a dû le restructurer à la fin de 
 - Artefact 
 - Cle 
 - Element (Enum)
--Rôle 
+- Rôle 
+- Personnages (package Role)
 
 #### Vue
 - Vue (JFrame: cette classe est notre fenêtre de jeu) 
